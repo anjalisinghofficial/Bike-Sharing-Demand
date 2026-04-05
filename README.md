@@ -53,11 +53,11 @@ Target Variable:
 
 ### 🔥 Correlation Heatmap
 
-![Correlation](correlation.png)
+![Correlation](correlation_heatmap.png)
 
 ### 📈 Actual vs Predicted
 
-![Prediction](prediction.png)
+![Prediction](prediction_plot.png)
 
 ### 📊 Feature Relationships
 
