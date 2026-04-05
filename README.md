@@ -79,4 +79,4 @@ Target Variable:
 
 ## 🎯 Outcome
 
-The model successfully predicts bike demand and helps identify key drivers, enabling better planning for inventory, pricing, and operations.
+The model successfully predicts bike demand and helps identify key drivers, enabling better planning and decision-making.
