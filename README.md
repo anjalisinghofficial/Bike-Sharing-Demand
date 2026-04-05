@@ -50,6 +50,19 @@ Target Variable:
 ---
 
 ## 📊 Visualizations
+## 📊 Visualizations
+
+### 🔥 Correlation Heatmap
+
+![Correlation](correlation_heatmap.png)
+
+### 📈 Actual vs Predicted
+
+![Prediction](prediction_plot.png)
+
+### 📊 Feature Relationships
+
+![Features](feature_heatmap.png)
 
 (Add your charts here)
 
